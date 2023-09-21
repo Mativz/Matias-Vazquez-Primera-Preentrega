@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Courier Prime', monospace;
+}
+h2,h3,h4,h5,h6{
+    color: rgb(5, 82, 89);
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Nunito', sans-serif;
+}
+.centrarBloque{
+    background: rgb(216, 216, 216);
+    width: 50%;
+    margin: auto;
+}
+.CentrarEnLinea{
+    margin: auto;
+    display: block;
+}
+img{
+    width: 50%;
+}
+    
